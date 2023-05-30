@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+    font-family: 'lato', sans-serif;
+    background-image: url('https://th.bing.com/th/id/OIP.ensiLtlsMoQxpqIoO-IyYgHaEo?pid=ImgDet&rs=1');
+} */
+
+.hide-scrollbar::-webkit-scrollbar{
+    display: none;
+}
